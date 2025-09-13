@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "822450765f36f781",
+    "type": "split",
+    "children": [
+      {
+        "id": "0549606be85ef9e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d87b635c98181d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.MD.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.MD"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfb287b672b89c3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "90482c779f6dfec0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abf1556f089c23a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9a45c48a0474dd75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f6c0c193a6b5d291",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c20199862ecb9a79",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f2378f9914d4dac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b899da5f66166acb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C Sintaxis Basica/ROADMAP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ROADMAP"
+            }
+          },
+          {
+            "id": "7cf209cd10d6fef2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C Sintaxis Basica/ROADMAP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ROADMAP"
+            }
+          },
+          {
+            "id": "ea306877810ae247",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "05cc3bbf18744dcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C Sintaxis Basica/ROADMAP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ROADMAP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2d87b635c98181d6",
+  "lastOpenFiles": [
+    "Matemáticas y Física Fundamental/Mecánica clásica (leyes de Newton, conservación de energía).md",
+    "README.MD.md",
+    "Matemáticas y Física Fundamental/Cálculo diferencial e integral.md",
+    "Matemáticas y Física Fundamental/Álgebra lineal (vectores, matrices, transformaciones).md",
+    "Matemáticas y Física Fundamental",
+    "subs/Compilación, debugging y optimización de código C.md",
+    "subs/Manejo de memoria (malloc, free, pointers).md",
+    "subs/Programación modular y buenas prácticas.md",
+    "Untitled.md",
+    "subs",
+    "C Sintaxis Basica/ROADMAP.md",
+    "C.md",
+    "defs/ROADMAP.md",
+    "defs",
+    "[[ROADMAP]].md",
+    "\"C.md",
+    "C Sintaxis Basica/defs/Introducción y Preparación del Entorno.md",
+    "C Sintaxis Basica/defs/Punteros (Introducción básica).md",
+    "C Sintaxis Basica/defs/Arreglos y Cadenas.md",
+    "C Sintaxis Basica/defs/Entrada y Salida.md",
+    "C Sintaxis Basica/defs/Funciones.md",
+    "C Sintaxis Basica/defs/Estructuras de Control de Flujo.md",
+    "C Sintaxis Basica/defs/Operadores.md",
+    "C Sintaxis Basica/defs/Tipos de Datos y Variables.md",
+    "C Sintaxis Basica/defs/Estructura de un Programa en C.md",
+    "C Sintaxis Basica/defs/Hello World.c.md",
+    "C Sintaxis Basica/defs",
+    "C Sintaxis Basica",
+    "Untitled.base",
+    "2025-09-13.md"
+  ]
+}
