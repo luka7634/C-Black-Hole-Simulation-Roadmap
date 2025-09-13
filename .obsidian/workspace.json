@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.MD.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.MD"
+              "title": "README"
             }
           }
         ]
@@ -172,7 +172,7 @@
   "active": "2d87b635c98181d6",
   "lastOpenFiles": [
     "Matemáticas y Física Fundamental/Mecánica clásica (leyes de Newton, conservación de energía).md",
-    "README.MD.md",
+    "README.md",
     "Matemáticas y Física Fundamental/Cálculo diferencial e integral.md",
     "Matemáticas y Física Fundamental/Álgebra lineal (vectores, matrices, transformaciones).md",
     "Matemáticas y Física Fundamental",
