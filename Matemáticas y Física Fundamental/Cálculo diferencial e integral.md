@@ -20,10 +20,10 @@ x→a
 
 ### **Definición Formal**
 La derivada representa la **razón de cambio instantánea**:
-```
+$$
 f'(x) = lim [f(x + h) - f(x)]/h
         h→0
-```
+$$
 
 ### **Interpretación Geométrica**
 - **Pendiente de la recta tangente**
