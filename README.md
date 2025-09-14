@@ -5,9 +5,9 @@ Este roadmap está diseñado para guiarte desde los fundamentos hasta la creaci�
 ## 1. Fundamentos de Programación en C
 
 - [ ] [Aprender sintaxis básica de C (variables, operadores, estructuras de control, funciones)](<C Sintaxis Basica/ROADMAP.md>)
-- [ ] [[Manejo de memoria (malloc, free, pointers)]]
-- [ ] [[Programación modular y buenas prácticas]]
-- [ ] [[Compilación, debugging y optimización de código C]]
+- [ ] [Manejo de memoria (malloc, free, pointers)](<subs/Manejo de memoria (malloc, free, pointers).md>)
+- [ ] [Programación modular y buenas prácticas](<subs/Programación modular y buenas prácticas.md>)
+- [ ] [Compilación, debugging y optimización de código C](<subs/Compilación, debugging y optimización de código C.md>)
 - **Recursos:**
   - "The C Programming Language" - Kernighan & Ritchie"
   - [Learn-C.org](https://www.learn-c.org/)
@@ -17,8 +17,8 @@ Este roadmap está diseñado para guiarte desde los fundamentos hasta la creaci�
 
 ## 2. Matemáticas y Física Fundamental
 
-- [ ] [[Álgebra lineal (vectores, matrices, transformaciones)]]
-- [ ] [[Cálculo diferencial e integral]]
+- [ ] [Álgebra lineal (vectores, matrices, transformaciones)](<Matemáticas y Física Fundamental/Álgebra lineal (vectores, matrices, transformaciones).md>)
+- [ ] [Cálculo diferencial e integral](<Matemáticas y Física Fundamental/Cálculo diferencial e integral.md>)
 - [ ] [[Mecánica clásica (leyes de Newton, conservación de energía)]]
 - [ ] Relatividad general (espacio-tiempo, ecuaciones de Einstein)
 - [ ] Astrofísica de agujeros negros (horizonte de eventos, disco de acreción, radiación Hawking)

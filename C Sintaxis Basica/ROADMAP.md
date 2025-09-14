@@ -2,7 +2,7 @@ Este roadmap te guiará paso a paso para dominar la sintaxis esencial del lengua
 
 ---
 
-## 1. [[Introducción y Preparación del Entorno]]
+## 1. [Introducción y Preparación del Entorno](<C Sintaxis Basica/defs/Introducción y Preparación del Entorno.md>)
 
 - [ ] ¿Qué es C y para qué sirve?
 - [ ] Instalar un compilador (GCC, Clang, MinGW)
@@ -11,7 +11,7 @@ Este roadmap te guiará paso a paso para dominar la sintaxis esencial del lengua
 
 ---
 
-## 2. [[Estructura de un Programa en C]]
+## 2. [Estructura de un Programa en C](<C Sintaxis Basica/defs/Estructura de un Programa en C.md>)
 
 - [ ] Archivos fuente (.c) y cabecera (.h)
 - [ ] Función principal `main()`
@@ -20,7 +20,7 @@ Este roadmap te guiará paso a paso para dominar la sintaxis esencial del lengua
 
 ---
 
-## 3. [[Tipos de Datos y Variables]]
+## 3. [Tipos de Datos y Variables](<C Sintaxis Basica/defs/Tipos de Datos y Variables.md>)
 
 - [ ] Tipos primitivos (`int`, `float`, `double`, `char`)
 - [ ] Declaración y asignación de variables
@@ -29,7 +29,7 @@ Este roadmap te guiará paso a paso para dominar la sintaxis esencial del lengua
 
 ---
 
-## 4. [[Operadores]]
+## 4. [Operadores](<C Sintaxis Basica/defs/Operadores.md>)
 
 - [ ] Operadores aritméticos (`+`, `-`, `*`, `/`, `%`)
 - [ ] Operadores relacionales (`==`, `!=`, `<`, `>`, `<=`, `>=`)
@@ -40,7 +40,7 @@ Este roadmap te guiará paso a paso para dominar la sintaxis esencial del lengua
 
 ---
 
-## 5. [[Estructuras de Control de Flujo]]
+## 5. [Estructuras de Control de Flujo](<C Sintaxis Basica/defs/Estructuras de Control de Flujo.md>)
 
 - [ ] Condicionales: `if`, `else`, `else if`, `switch`
 - [ ] Bucles: `for`, `while`, `do...while`
@@ -48,7 +48,7 @@ Este roadmap te guiará paso a paso para dominar la sintaxis esencial del lengua
 
 ---
 
-## 6. [[Funciones]]
+## 6. [Funciones](<C Sintaxis Basica/defs/Funciones.md>)
 
 - [ ] Declaración y definición de funciones
 - [ ] Parámetros y valores de retorno
@@ -57,7 +57,7 @@ Este roadmap te guiará paso a paso para dominar la sintaxis esencial del lengua
 
 ---
 
-## 7. [[Entrada y Salida]]
+## 7. [Entrada y Salida](<C Sintaxis Basica/defs/Entrada y Salida.md>)
 
 - [ ] Imprimir en pantalla: `printf`
 - [ ] Leer desde teclado: `scanf`
@@ -65,7 +65,7 @@ Este roadmap te guiará paso a paso para dominar la sintaxis esencial del lengua
 
 ---
 
-## 8. [[Arreglos y Cadenas]]
+## 8. [Arreglos y Cadenas](<C Sintaxis Basica/defs/Arreglos y Cadenas.md>)
 
 - [ ] Declaración y uso de arreglos (unidimensionales y multidimensionales)
 - [ ] Manipulación de cadenas de caracteres (`char[]`)
@@ -73,7 +73,7 @@ Este roadmap te guiará paso a paso para dominar la sintaxis esencial del lengua
 
 ---
 
-## 9. [[Punteros (Introducción básica)]]
+## 9. [Punteros (Introducción básica)](<C Sintaxis Basica/defs/Punteros (Introducción básica).md>)
 
 - [ ] ¿Qué es un puntero?
 - [ ] Declaración y uso básico

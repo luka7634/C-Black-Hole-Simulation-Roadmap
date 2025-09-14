@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matemáticas y Física Fundamental/Cálculo diferencial e integral.md",
+                "file": "README.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Cálculo diferencial e integral"
+              "title": "README"
             }
           }
         ]
@@ -171,21 +171,21 @@
   },
   "active": "2d87b635c98181d6",
   "lastOpenFiles": [
-    "README.md",
-    "Matemáticas y Física Fundamental/Álgebra lineal (vectores, matrices, transformaciones).md",
     "subs/Compilación, debugging y optimización de código C.md",
-    "subs/Programación modular y buenas prácticas.md",
+    "README.md",
     "subs/Manejo de memoria (malloc, free, pointers).md",
     "C Sintaxis Basica/ROADMAP.md",
+    "C Sintaxis Basica/defs/Operadores.md",
+    "Matemáticas y Física Fundamental/Cálculo diferencial e integral.md",
+    "Matemáticas y Física Fundamental/Álgebra lineal (vectores, matrices, transformaciones).md",
+    "subs/Programación modular y buenas prácticas.md",
     "C Sintaxis Basica/defs/Punteros (Introducción básica).md",
     "C Sintaxis Basica/defs/Arreglos y Cadenas.md",
     "C Sintaxis Basica/defs/Entrada y Salida.md",
     "C Sintaxis Basica/defs/Funciones.md",
     "C Sintaxis Basica/defs/Estructuras de Control de Flujo.md",
-    "C Sintaxis Basica/defs/Operadores.md",
     "C Sintaxis Basica/defs/Tipos de Datos y Variables.md",
     "Matemáticas y Física Fundamental/Mecánica clásica (leyes de Newton, conservación de energía).md",
-    "Matemáticas y Física Fundamental/Cálculo diferencial e integral.md",
     "Matemáticas y Física Fundamental",
     "Untitled.md",
     "subs",
